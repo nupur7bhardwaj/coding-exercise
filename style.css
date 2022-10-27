@@ -1,0 +1,21 @@
+*{
+    border: 1px black;
+    background-color: rgb(189, 241, 158);
+}
+h1{
+  color: rgb(238, 13, 13);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  text-decoration: underline;
+  text-shadow: 6px;
+}
+p{
+    text-align: center;
+    color: rgb(98, 21, 21);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+title{
+    color: blueviolet;
+}
